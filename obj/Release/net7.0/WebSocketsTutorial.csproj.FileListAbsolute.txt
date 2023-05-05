@@ -1,0 +1,7 @@
+C:\Users\wanna\OneDrive\เดสก์ท็อป\Benchapon\SiamPiwat\poc\WebSocketsTutorial\WebSocketsTutorial\obj\Release\net7.0\WebSocketsTutorial.csproj.AssemblyReference.cache
+C:\Users\wanna\OneDrive\เดสก์ท็อป\Benchapon\SiamPiwat\poc\WebSocketsTutorial\WebSocketsTutorial\obj\Release\net7.0\WebSocketsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanna\OneDrive\เดสก์ท็อป\Benchapon\SiamPiwat\poc\WebSocketsTutorial\WebSocketsTutorial\obj\Release\net7.0\WebSocketsTutorial.AssemblyInfoInputs.cache
+C:\Users\wanna\OneDrive\เดสก์ท็อป\Benchapon\SiamPiwat\poc\WebSocketsTutorial\WebSocketsTutorial\obj\Release\net7.0\WebSocketsTutorial.AssemblyInfo.cs
+C:\Users\wanna\OneDrive\เดสก์ท็อป\Benchapon\SiamPiwat\poc\WebSocketsTutorial\WebSocketsTutorial\obj\Release\net7.0\WebSocketsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\wanna\OneDrive\เดสก์ท็อป\Benchapon\SiamPiwat\poc\WebSocketsTutorial\WebSocketsTutorial\obj\Release\net7.0\WebSocketsTutorial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wanna\OneDrive\เดสก์ท็อป\Benchapon\SiamPiwat\poc\WebSocketsTutorial\WebSocketsTutorial\obj\Release\net7.0\WebSocketsTutorial.MvcApplicationPartsAssemblyInfo.cache

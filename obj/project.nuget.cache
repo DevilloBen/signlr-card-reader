@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "iuk3WPVZHvhztjmWU8U+N2J+7VO+XACYbsfmfEKoywGgS6dJc+rfUCc3k/YM9nRtTJcTxyd3+FPeG1isaxxaEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wanna\\OneDrive\\เดสก์ท็อป\\Benchapon\\SiamPiwat\\poc\\WebSocketsTutorial\\WebSocketsTutorial\\WebSocketsTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.3\\microsoft.aspnetcore.connections.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\7.0.3\\microsoft.aspnetcore.signalr.common.7.0.3.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.extensions.features\\7.0.3\\microsoft.extensions.features.7.0.3.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\pcsc\\5.0.0\\pcsc.5.0.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\pcsc.iso7816\\5.0.0\\pcsc.iso7816.5.0.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\wanna\\.nuget\\packages\\thainationalidcard.net\\1.1.0\\thainationalidcard.net.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
